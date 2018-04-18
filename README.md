@@ -4,7 +4,7 @@
 # SD-HOC: Seasonal Decomposition Algorithm for Mining Lagged Time Series
 Mining time series data is a difficult process due to the lag factor and different time of data arrival. In this paper, we present Seasonal Decomposition for Human Occupancy Counting (SD-HOC), a customised feature transformation decomposition, novel way to estimate the number of people within a closed space using only a single carbon dioxide sensor. SD-HOC integrates time lag and line of best fit model in the preprocessing algorithms. SD-HOC utilises seasonal-trend decomposition with moving average to transform the preprocessed data and for each trend, seasonal and irregular component, different regression algorithms are modelled to predict each respective human occupancy component value. Utilising M5 method linear regression for trend and irregular component and dynamic time warping for seasonal component, a set of the prediction value for each component was obtained. Zero pattern adjustment model is infused to increase the accuracy and finally, additive decomposition is used to reconstruct the prediction value. The accuracy results are compared with other data mining algorithms such as decision tree, multi-layer perceptron, Gaussian processes - radial basis function, support vector machine, random forest, naïve Bayes and support vector regression in two different locations that have different contexts.
 
-![alt text](https://github.com/cruiseresearchgroup/DA-HOC-Semi-supervised-Domain-Adaptation-Prediction/tree/master/images/transferLearningModel.jpg)
+![alt text](https://github.com/cruiseresearchgroup/SD-HOC-Seasonal-Decomposition-Algorithm-for-Mining-Lagged-Time-Series/blob/master/images/SDHOC.jpg)
 
 This repository contains resources developed within the following paper:
 
