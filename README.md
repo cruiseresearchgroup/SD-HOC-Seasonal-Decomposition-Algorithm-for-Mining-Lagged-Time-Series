@@ -10,7 +10,7 @@ This repository contains resources developed within the following paper:
     In: Boo Y., Stirling D., Chi L., Liu L., Ong KL., Williams G. (eds) Data Mining. AusDM 2017.
     Communications in Computer and Information Science, vol 845. Springer, Singapore
   
-You can find the [paper](https://github.com/cruiseresearchgroup/DA-HOC-Semi-supervised-Domain-Adaptation-Prediction/blob/master/paper/BuildSys17_IrvanAriefAng.pdf) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/SD-HOC-Seasonal-Decomposition-Algorithm-for-Mining-Lagged-Time-Series/blob/master/paper/AusDM2017_IrvanAriefAng_(CCIS).pdf) in this repository. 
 
 Alternative link: https://link.springer.com/chapter/10.1007%2F978-981-13-0292-3_8
 
